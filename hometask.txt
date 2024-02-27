@@ -1,2 +1,15 @@
 ветки отличаются файлом readme
 у меня написано with nice buttons on his jacket (buttons branch), а в demo этого нет
+
+я вижу 10 коммитов
+комментарии в порядке от самого раннего коммита к самому позднему:
+init
+heat added
+README added
+fix readme
+Squashed commit of the following
+Squashed commit of the following
+Initial commit
+Merge branch 'boots_buttons'
+Merge branch 'hat'
+a
